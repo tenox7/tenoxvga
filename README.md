@@ -6,6 +6,8 @@ Atari TT traditionally lets you use VGA monitors in ST and TT low to medium reso
 
 The adapter plugs in directly to the Atari TT monitor port and switches the computer in to TT-HIGH mode. Just connect your standard LCD panel or CRT monitor, no drivers, configuration changes or opening the case / soldering required. TenoxVGA requires a 12V external power supply to operate. A wall adapter is available as an option. It is possible to draw power from TT internal PSU by using Y splitter cable for HDD power. Also the device plugs directly to Atari TT video port which requires some additional space on back of the computer. If this is a problem we also sell a short VGA cable that can go between Atari and the adapter.
 
+!(TT HIGH on LCD)[tthigh.jpg]
+
 ## Technical Specifications:
 
 ```
