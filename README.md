@@ -1,4 +1,4 @@
-# ECL2VGA Adapter for Atari TT 030 High Resolution Mode
+# ECL2VGA Adapter for Atari TT High Res Mode
 
 TenoxVGA is an adapter that lets you use a standard LCD flat panel or a CRT monitor with Atari TT built-in video card in TT-HIGH mode (1280x960). You can think of it as TTM194 or TTM195 monitor replacement or ECL to VGA video signal converter.
 
