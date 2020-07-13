@@ -23,7 +23,9 @@ Case Dimensions: 85mm x 41mm x 21mm
 
 ## Credits:
 * Copyright © 2013 by Antoni Sawicki <as@tenoware.com>
-* The device was designed and is manufactured by MSDUS http://www.msdus.com/
+* The device was designed and manufactured by MSDUS http://www.msdus.com/
 
 ## License:
 Apache 2.0
+
+In addition the copyright holder of this project hereby grants rights to produce and sell devices based on this project, reproduce, copy, make new producs and sell these, bearing name TenoxVGA, ECL2VGA or anything you want.
