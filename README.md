@@ -14,7 +14,7 @@ The adapter plugs in directly to the Atari TT monitor port and switches the comp
 
 ```
 Input Port: Atari TT DSUB Video port
-Output Port:Standard VGA 15 pin DSUB
+Output Port: Standard VGA 15 pin DSUB
 Resolution: 1280 x 960
 Colors: 2 (BW), 1 BPP
 Aspect ratio: 4:3
@@ -32,4 +32,4 @@ Case Dimensions: 85mm x 41mm x 21mm
 ## License:
 Apache 2.0
 
-In addition the copyright holder of this project hereby grants rights to produce and sell devices based on this project, reproduce, copy, make new producs and sell these, bearing name TenoxVGA, ECL2VGA or anything you want.
+In addition, the copyright holder of this project hereby grants you explicit permission to produce and sell devices based on this project, reproduce, copy, make new producs and sell these, bearing name TenoxVGA, ECL2VGA or anything you want.
