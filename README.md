@@ -10,7 +10,7 @@ The adapter plugs in directly to the Atari TT monitor port and switches the comp
 
 ![TenoxVGA](tenoxvga1.jpg)
 
-## Technical Specifications:
+## Technical Specifications
 
 ```
 Input Port: Atari TT DSUB Video port
@@ -29,11 +29,11 @@ Case Dimensions: 85mm x 41mm x 21mm
 
 You can currently purchase boards from [Legacy Pixels](https://www.legacypixels.com/atari)
 
-## Credits:
+## Credits
 * Copyright © 2013 by Antoni Sawicki <as@tenoware.com>
 * The device was designed and manufactured by MSDUS http://www.msdus.com/
 
-## License:
+## License
 Apache 2.0
 
-In addition, the copyright holder of this project hereby grants you explicit permission to produce and sell devices based on this project, reproduce, copy, make new producs and sell these, bearing name TenoxVGA, ECL2VGA or anything you want.
+The copyright holder of this project hereby grants you explicit permission to produce and sell devices based on this project, reproduce, copy, make new producs and sell these, bearing name TenoxVGA, ECL2VGA or anything you want.
