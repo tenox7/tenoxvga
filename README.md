@@ -27,7 +27,7 @@ Case Dimensions: 85mm x 41mm x 21mm
 
 ## Ordering
 
-You can currently purchase board from [Legacy Pixels](https://www.legacypixels.com/atari)
+You can currently purchase boards from [Legacy Pixels](https://www.legacypixels.com/atari)
 
 ## Credits:
 * Copyright © 2013 by Antoni Sawicki <as@tenoware.com>
