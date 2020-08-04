@@ -25,6 +25,10 @@ DC Power Plug: 2.1mm ID x 5.5mm OD x 9.5mm plug
 Case Dimensions: 85mm x 41mm x 21mm
 ```
 
+## Ordering
+
+You can currently purchase board from [Legacy Pixels](https://www.legacypixels.com/atari)
+
 ## Credits:
 * Copyright © 2013 by Antoni Sawicki <as@tenoware.com>
 * The device was designed and manufactured by MSDUS http://www.msdus.com/
