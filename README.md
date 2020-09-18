@@ -36,4 +36,4 @@ You can currently purchase boards from [Legacy Pixels](https://www.legacypixels.
 ## License
 Apache 2.0
 
-The copyright holder of this project hereby grants you explicit permission to produce and sell devices based on this project, reproduce, copy, make new producs and sell these, bearing name TenoxVGA, ECL2VGA or anything you want.
+The copyright holder of this project hereby grants you explicit permission to produce and sell devices based on this project, reproduce, copy, clone, make new projects and producs, sell and distribute. This includes righs toname TenoxVGA, ECL2VGA or use any name you want on the derivative work.
