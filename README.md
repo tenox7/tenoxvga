@@ -29,6 +29,8 @@ Case Dimensions: 85mm x 41mm x 21mm
 
 You can currently purchase boards from [Legacy Pixels](https://www.legacypixels.com/atari)
 
+Also experimentally you can build to order on [PCBWay](https://www.pcbway.com/project/shareproject/TenoxVGA___ECL2VGA_Adapter_for_Atari_TT_High_Res_Mode.html)
+
 ## Credits
 * Copyright © 2013 by Antoni Sawicki <as@tenoware.com>
 * The device was designed and manufactured by MSDUS http://www.msdus.com/
