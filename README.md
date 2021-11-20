@@ -25,6 +25,15 @@ DC Power Plug: 2.1mm ID x 5.5mm OD x 9.5mm plug
 Case Dimensions: 85mm x 41mm x 21mm
 ```
 
+## LCD Panel Compatibility
+
+In order to achieve best image quality your lcd panel should support 1:1 scaling mode, or scaling off. This is because TT-HIGH mode is 1280x960 whereas most panels have 1280x1024 or some other variant of 5:4 aspect ratio. If your lcd panel doesn't support scalling off or 1:1 mode the picture may be stretched. Also you should set contrast to 100% and tweak some other parameters.
+
+The best LCD panels for TT and TenoxVGA are NEC 1990SXi however generally most older NEC LCD panels support 1:1 / scaling off.
+
+Alternatively if you cannot find an lcd panel with scaling off you can use Extron [RGB-HDMI 300 scaler](https://www.extron.com/product/rgbhdmi300a). They can be found on eBay for less than $100. The Extron scaler will be able to correctly scale and adjust the image, including 100% contrast and display it on any regular HDMI based LCD panel.
+
+
 ## Ordering
 
 You can currently purchase boards from [Legacy Pixels](https://www.legacypixels.com/atari)
