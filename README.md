@@ -29,7 +29,7 @@ Case Dimensions: 85mm x 41mm x 21mm
 
 In order to achieve best image quality your lcd panel should support 1:1 scaling mode, or scaling off. This is because TT-HIGH mode is 1280x960 whereas most panels have 1280x1024 or some other variant of 5:4 aspect ratio. If your lcd panel doesn't support scalling off or 1:1 mode the picture may be stretched. Also you should set contrast to 100% and tweak some other parameters.
 
-The best LCD panels for TT and TenoxVGA are NEC 1990SXi however generally most older NEC LCD panels support 1:1 / scaling off.
+The best LCD panels for TT and TenoxVGA are **NEC 1990** however generally most older NEC LCD panels support 1:1 / scaling off.
 
 If you cannot find a suitable LCD panel, anternatively you can use Extron [RGB-HDMI 300 scaler](https://www.extron.com/product/rgbhdmi300a). They can be found on eBay for less than $100. The Extron scaler will be able to correctly pre-scale and pre-adjust the image (including 100% contrast) to correctly display it on any modern day HDMI based LCD panel.
 
