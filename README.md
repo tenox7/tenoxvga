@@ -31,8 +31,7 @@ In order to achieve best image quality your lcd panel should support 1:1 scaling
 
 The best LCD panels for TT and TenoxVGA are NEC 1990SXi however generally most older NEC LCD panels support 1:1 / scaling off.
 
-Alternatively if you cannot find an lcd panel with scaling off you can use Extron [RGB-HDMI 300 scaler](https://www.extron.com/product/rgbhdmi300a). They can be found on eBay for less than $100. The Extron scaler will be able to correctly scale and adjust the image, including 100% contrast and display it on any regular HDMI based LCD panel.
-
+If you cannot find a suitable LCD panel, anternatively you can use Extron [RGB-HDMI 300 scaler](https://www.extron.com/product/rgbhdmi300a). They can be found on eBay for less than $100. The Extron scaler will be able to correctly pre-scale and pre-adjust the image (including 100% contrast) to correctly display it on any modern day HDMI based LCD panel.
 
 ## Ordering
 
@@ -42,7 +41,7 @@ Also experimentally you can build to order on [PCBWay](https://www.pcbway.com/pr
 
 ## Credits
 * Copyright © 2013 by Antoni Sawicki <as@tenoware.com>
-* The device was designed and manufactured by MSDUS http://www.msdus.com/
+* The device was originally designed and manufactured by MSDUS http://www.msdus.com/
 
 ## License
 Apache 2.0
